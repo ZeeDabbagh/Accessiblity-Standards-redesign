@@ -28,6 +28,7 @@ body {
     padding-top: 15px;
     list-style-type: none;
     float: right;
+    font-size: large;
 }
 
 .header ul li {
