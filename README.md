@@ -16,16 +16,17 @@ Use this website to read about the benefits and services offered by HoriSEOn Mar
 ```
 
 ## Credits
+```
 HoriSEOn Marketing
-
+```
 ## License
-
+```
 Please refer to the LICENSE in the repo.
+```
+## Screenshot
 
+![deployedSS](./assets/Screen%20Shot%202023-02-05%20at%203.03.06%20PM.png)
 
-The following image shows the web application's appearance and functionality:
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
-## Screenshot of Deployed Application
-![The deployed github pages showing the nav bar, header image, aside bar, and all the text.](./Assets/deployed-application-screenshot.png)
-## Link of Deployed Application
+## Link to Deployed Web App
+
+https://zeedabbagh.github.io/accessibility-standards-redesign/
